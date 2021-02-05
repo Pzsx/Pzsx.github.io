@@ -1,7 +1,7 @@
 {
   "name": "personality-test",
   "version": "0.1.0",
-  "homepage": "http://pzsx.github.io/",
+  "homepage": "http://pzsx.github.io/Pzsx.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
